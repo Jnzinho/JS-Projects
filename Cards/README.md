@@ -2,5 +2,5 @@
 
 ![Cardss](https://user-images.githubusercontent.com/110572346/209495950-d05ee2ca-818f-4bf9-8318-18794cb4e00f.gif)
 
-A expading cards small HTML, CSS and Javascript project that will be useful when making an UI for bigger future projects
+A expanding cards small HTML, CSS and Javascript project that will be useful when making an UI for bigger future projects.
 
