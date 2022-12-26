@@ -6,4 +6,4 @@
 All made with **JS, HTML and CSS :)**
 
 
-***🖼️ Previews to every project are available in each of their respective folder! 🖼️***
+***🖼️ Previews and details of every project are available in each of their respective folder! 🖼️***
